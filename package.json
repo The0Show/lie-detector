@@ -1,0 +1,15 @@
+{
+  "name": "lie-detector",
+  "version": "1.0.0",
+  "description": "The official source code for the Lie Detector Discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
